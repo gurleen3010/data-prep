@@ -3,10 +3,11 @@
 
 Accepted solutions from [leetdata.ai](https://leetdata.ai), the data engineering practice platform, synced automatically by LeetData Sync.
 
-**6 problems solved** · Easy 6 · Medium 0 · Hard 0
+**7 problems solved** · Easy 7 · Medium 0 · Hard 0
 
 | Problem | Difficulty | Solutions | Solved |
 |---|---|---|---|
+| [Blank vs NULL](easy/blank-vs-null) | Easy | [SQL](easy/blank-vs-null/solution.sql) | 2026-11-20 |
 | [Case When Labels](easy/case-when-labels) | Easy | [SQL](easy/case-when-labels/solution.sql) | 2026-11-20 |
 | [Count by Category](easy/count-by-category) | Easy | [SQL](easy/count-by-category/solution.sql) | 2026-11-20 |
 | [Between Range](easy/between-range) | Easy | [SQL](easy/between-range/solution.sql) | 2026-11-20 |
