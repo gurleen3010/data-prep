@@ -3,10 +3,11 @@
 
 Accepted solutions from [leetdata.ai](https://leetdata.ai), the data engineering practice platform, synced automatically by LeetData Sync.
 
-**8 problems solved** · Easy 8 · Medium 0 · Hard 0
+**9 problems solved** · Easy 9 · Medium 0 · Hard 0
 
 | Problem | Difficulty | Solutions | Solved |
 |---|---|---|---|
+| [Basic CTE Filter](easy/basic-cte-filter) | Easy | [SQL](easy/basic-cte-filter/solution.sql) | 2026-11-20 |
 | [Average Order Value](easy/average-order-value) | Easy | [SQL](easy/average-order-value/solution.sql) | 2026-11-20 |
 | [Blank vs NULL](easy/blank-vs-null) | Easy | [SQL](easy/blank-vs-null/solution.sql) | 2026-11-20 |
 | [Case When Labels](easy/case-when-labels) | Easy | [SQL](easy/case-when-labels/solution.sql) | 2026-11-20 |
